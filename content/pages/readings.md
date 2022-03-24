@@ -234,9 +234,9 @@ Wittgenstein: _Tractatus Logico-Philosophicus_ (1921)
 
 \[W\]
 
-Conant, James. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Wittgenstein's Later Criticism of the Tractatus." (PDF)](https://humstatic.uchicago.edu/philosophy/conant/Wittgenstein's%20Later%20Criticisms%20of%20the%20Tractatus%20Published%20Version.pdf)
+Conant, James. ["Wittgenstein's Later Criticism of the Tractatus." (PDF)](https://humstatic.uchicago.edu/philosophy/conant/Wittgenstein's%20Later%20Criticisms%20of%20the%20Tractatus%20Published%20Version.pdf)
 
-Diamond, Cora, and James Conant. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["On Reading the Tractatus Resolutely: Reply to Meredith Williams and Peter Sullivan." (PDF)](http://philosophy.uchicago.edu/faculty/files/conant/03ConantDiamond.pdf)
+Diamond, Cora, and James Conant. ["On Reading the Tractatus Resolutely: Reply to Meredith Williams and Peter Sullivan." (PDF)](http://philosophy.uchicago.edu/faculty/files/conant/03ConantDiamond.pdf)
 
 Diamond, Cora. "[Throwing Away the Ladder](http://www.jstor.org/stable/3750493?origin=JSTOR-pdf&)." _Philosophy_ 63, no. 243 (1988): 5–27.
 
@@ -290,7 +290,7 @@ Moore, G. E. "The Refutation of Idealism." In _G. E. Moore: Selected Writings_. 
 
 ———. "A Defence of Common Sense." In _G. E. Moore: Selected Writings_. Edited by Thomas Baldwin. Routledge, 2013. ISBN: 9780415862295. \[Preview with [Google Books](http://books.google.com/books?id=bh5lJrGxQEYC&pg=PA106#v=onepage)\]
 
-Van Cleve, James. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Troubles For Radical Transparency." (PDF)](http://dornsife.usc.edu/assets/sites/69/docs/Transparency_draft_2.pdf) 2005.
+Van Cleve, James. ["Troubles For Radical Transparency." (PDF)](http://dornsife.usc.edu/assets/sites/69/docs/Transparency_draft_2.pdf) 2005.
 
 Moore, G. E. "Proof of an External World." In _G. E. Moore: Selected Writings_. Edited by Thomas Baldwin. Routledge, 2013. ISBN: 9780415862295.
 
